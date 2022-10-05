@@ -16,6 +16,7 @@
       <tag>dark</tag>
       <tag>mechanical</tag>
       <depend type="addon">Lattice2 Workbench</depend>
+      <depend type="addon">Assembly4</depend>
     </preferencepack>
   </content>
 
